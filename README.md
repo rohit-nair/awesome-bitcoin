@@ -25,6 +25,8 @@ Contents
 * [Nick Szabo's The Origins of Money](https://nakamotoinstitute.org/shelling-out/)
 * [Anything Nick Szabo has written](http://unenumerated.blogspot.com/)
 * [Modeling Bitcoin Value with Scarcity](https://medium.com/@100trillionUSD)
+* [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
+* [Third Time's a Charm](https://voluntarymind.com/bitcoin/third-time-is-the-charm/)
 * [Bitcoin energy consumption](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 * [Ark Bitcoin Solar Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
 
