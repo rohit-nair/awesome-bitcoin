@@ -5,6 +5,7 @@ Contents
 - [awesome-bitcoin](#awesome-bitcoin)
   - [Introduction](#introduction)
   - [Satoshi's Musings](#satoshis-musings)
+  - [Books](#books)
   - [Blogs](#blogs)
   - [Courses](#courses)
   - [Podcasts](#podcasts)
@@ -30,6 +31,8 @@ Contents
 * [Bitcoin energy consumption](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
 * [Ark Bitcoin Solar Mining](https://github.com/ARKInvest/SolarBatteryBitcoin)
 
+## Books
+* [Mastering Bitcoin 2nd Ed](https://github.com/bitcoinbook/bitcoinbook)
 
 ## Courses
 * [Gary Gensler | Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
@@ -41,9 +44,9 @@ Contents
 ## Podcasts
 * [Bitcoin Fundamentals](https://www.theinvestorspodcast.com/bitcoin-fundamentals/)
 * [Salor Series](https://www.youtube.com/playlist?list=PLLhllQv4VfFZQd4tNO6pQcyWCLS4KICHc)
-* [What bitcoin did](https://www.whatbitcoindid.com/)
 * [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
 * [The Bitcoin Standard Podcast](https://saifedean.com/podcast/)
+* [What bitcoin did](https://www.whatbitcoindid.com/)
 
 ## Codebase
 * [Bitcoin](https://github.com/bitcoin/bitcoin)
